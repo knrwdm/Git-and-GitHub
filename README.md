@@ -34,9 +34,6 @@ coordinating work on those files among multiple people
 
 ---
 
-[README](
-
-
 ### Advice 
 * Coming from students who have never used Git or GitHub it can be very frustrating.
 * Do not give up on the program, it is necessary for the class!
